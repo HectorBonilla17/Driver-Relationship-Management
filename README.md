@@ -1,1 +1,2 @@
 # Driver-Relationship-Management
+A Spring Boot Web Application that keeps track of each Truck Driver's Name, Company, Pin #, and Truck #. The website allows the user to view all drivers in the database. The user can create a new driver using the "Add Driver" button, which will redirect them to a different html form where they can provide the necessary data for the driver. In addition, two actions are available for each existing driver in the table, which allows the user to update the selected driver or deleting them.
